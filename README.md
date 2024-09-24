@@ -22,9 +22,9 @@
 ### Legenda para os protótipos 
 | Ícone | Descrição |
 | ---      | ---       |
-| <img src="https://github.com/user-attachments/assets/ef7e87d3-cbfb-471d-86f6-5a0febb1dfe9" width="70" height="70"> | Procedimento do usuário |
-| <img src="https://github.com/user-attachments/assets/840172bf-11c4-45a1-b93e-9c8ba5f4f4a6" width="70" height="70"> | Processamento da API |
-| <img src="https://github.com/user-attachments/assets/004e0b1f-1a1d-401b-9104-e490adb6d356" width="70" height="70"> | Processamento do sistema |
+| <img src="./img-fluxos/legendas/usuario.png" width="70" height="70"> | Procedimento do usuário |
+| <img src="./img-fluxos/legendas/api.png" width="70" height="70"> | Processamento da API |
+| <img src="./img-fluxos/legendas/sistema.png" width="70" height="70"> | Processamento do sistema |
 
 
 
