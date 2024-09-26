@@ -20,6 +20,7 @@
 
 #
 ### Legenda para os protótipos 
+Atráves desses ícones é possível acompanhar o passo a passo dos procedimentos efetuados pelos fluxos.
 | Ícone | Descrição |
 | ---      | ---       |
 | <img src="./img-fluxos/legendas/usuario.png" width="70" height="70"> | Procedimento do usuário |
