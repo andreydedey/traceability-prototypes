@@ -21,7 +21,7 @@
 `• Um sócio não pode fazer uma alocação para outro sócio.`
 
 
-**5º fluxo secundário - Sócio com 3 multas registradas**
+**6º fluxo secundário - Sócio tenta alocar para outro sócio**
 
 | Protótipo |
 | --- |
